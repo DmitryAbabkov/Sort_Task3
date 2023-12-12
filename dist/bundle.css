@@ -1,0 +1,27 @@
+/*!*************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./style.css ***!
+  \*************************************************************/
+
+body {
+    background-color: #AFEEEE;
+}
+.container-row{
+    width: 100px;
+    height: 100px;
+    background-color: #00FA9A;
+    border: 1px solid black;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+.container-goblin {
+    background-image: url(2dbd01ce16c0fa83cb67.png);
+    background-size: contain;
+}
+
+.test {
+    color: red;
+}
